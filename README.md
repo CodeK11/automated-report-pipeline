@@ -2,6 +2,8 @@
 
 A serverless automated reporting system using GitHub Actions.
 
+To execute, goto -> .github/workflows -> weekly-report.yml -> View Runs -> Run
+
 ## What it does
 - Runs on a weekly schedule (every Monday at 08:00 UTC)
 - Processes raw data and calculates KPIs (Orders, Revenue, AOV)
