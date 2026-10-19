@@ -2,7 +2,7 @@
 
 A serverless automated reporting system using GitHub Actions.
 
-To execute, goto -> .github/workflows -> weekly-report.yml -> View Runs -> Run
+To execute, goto -> .github/workflows -> weekly-report.yml -> View Runs -> Run Workflow
 
 ## What it does
 - Runs on a weekly schedule (every Monday at 08:00 UTC)
